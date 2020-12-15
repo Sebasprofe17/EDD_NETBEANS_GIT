@@ -15,7 +15,7 @@ public class EDD_NETBEANS_GIT {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Acabadet de clonar");
     }
     
 }
