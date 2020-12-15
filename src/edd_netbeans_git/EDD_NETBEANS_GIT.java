@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package edd_netbeans;
+package edd_netbeans_git;
 
 /**
  *
  * @author sebas
  */
-public class EDD_NETBEANS {
+public class EDD_NETBEANS_GIT {
 
     /**
      * @param args the command line arguments
